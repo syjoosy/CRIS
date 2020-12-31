@@ -6,7 +6,7 @@
 
 a.botr{
   left: 39%;
-  top: 1700px;
+  top: 1500px;
   background:#fff;
   width:225px;
   display:block;
@@ -94,5 +94,5 @@ a.botr:hover{
 .text-3 {
 	font-size: 20px;
 	left: 18%;
-	top: 1800px;
+	top: 1600px;
 }

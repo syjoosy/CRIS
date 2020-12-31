@@ -1,0 +1,67 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+}
+
+#compliments {
+	padding: 5px;
+	color: white;
+	font-size: 22px;
+	text-align: justify;
+}
+
+#layer1 {
+
+}
+
+#layer2 {
+
+}
+
+.pink-block {
+	height: 300px;
+	width: 100%;
+	background: #e9b8ea;
+}
+
+.pink-block > * {
+	position: absolute;
+}
+
+.image {
+	border: 3px solid white;
+	left: 32%;
+	top: 15%;
+}
+
+.text {
+	font-size: 20px;
+	left: 34%;
+	top: 500px;
+}
+
+.audio {
+	left: 32%;
+	top: 575px;
+}
+
+.text-2 {
+	font-size: 20px;
+	left: 34%;
+	top: 650px;
+}
+
+#triangle-topleft {
+	width: 0;
+	height: 0;
+	border-top: 100px solid #e9b8ea; 
+	border-right: 1100px solid transparent;
+	color: #e9b8ea;			
+}
+
+.white-block {
+	height: 100%;
+	width: 50%;
+	background: white;
+}

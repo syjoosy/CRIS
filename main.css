@@ -32,7 +32,7 @@
 .image {
 	border: 3px solid white;
 	left: 32%;
-	top: 15%;
+	top: 180px;
 }
 
 .text {
@@ -55,8 +55,8 @@
 #triangle-topleft {
 	width: 0;
 	height: 0;
-	border-top: 100px solid #e9b8ea; 
-	border-right: 1100px solid transparent;
+	border-top: 80px solid #e9b8ea; 
+	border-right: 1080px solid transparent;
 	color: #e9b8ea;			
 }
 

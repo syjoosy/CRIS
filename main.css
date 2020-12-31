@@ -6,7 +6,7 @@
 
 a.botr{
   left: 37%;
-  top: 1000px;
+  top: 1500px;
   background:#fff;
   width:225px;
   display:block;
@@ -62,24 +62,24 @@ a.botr:hover{
 .image {
 	border: 3px solid white;
 	left: 25%;
-	top: 180px;
+	top: 210px;
 }
 
 .text {
 	font-size: 30px;
-	left: 28%;
-	top: 710px;
+	left: 27%;
+	top: 750px;
 }
 
 .audio {
-	left: 34%;
-	top: 775px;
+	left: 35%;
+	top: 810px;
 }
 
 .text-2 {
 	font-size: 30px;
-	left: 30%;
-	top: 850px;
+	left: 29%;
+	top: 890px;
 }
 
 #triangle-topleft {
@@ -94,5 +94,5 @@ a.botr:hover{
 .text-3 {
 	font-size: 20px;
 	left: 18%;
-	top: 1300px;
+	top: 1600px;
 }
